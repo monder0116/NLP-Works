@@ -1,4 +1,4 @@
-it is spell the turkish words with SFST , it include tutorial in pdf file.
+it is spell the turkish words by SFST , it include tutorial in pdf file.
 
 usage:
 --fst-compiler hw1.fst hw1.a 
