@@ -1,0 +1,15 @@
+it is spell the turkish words with SFST , it include tutorial in pdf file.
+
+usage:
+--fst-compiler hw1.fst hw1.a 
+hw1.fst: 28
+
+--fst-mor hw1.a 
+reading transducer...
+  analyze> kahraman
+kah<->ra<->man<->
+  analyze> yeditepe
+ye<->di<->te<->pe
+  analyze> kahverengi
+kah<->ve<->ren<->gi<->
+
