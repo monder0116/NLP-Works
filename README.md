@@ -3,9 +3,14 @@
 
 
 ----work1----
+
 Run only main.py script with corpus(like article, document)
 - python main.py test-data.txt
 
 * script create a language model , script can calculate letter grams and syllable grams until to 5-gram. it has provide Perplexty and probability of given sentences . it has used markov assemption and naive bayes probability.
 
    
+----work2----
+
+
+it spells the turkish words by SFST , it include tutorial in pdf file.
